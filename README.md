@@ -31,13 +31,21 @@ It follows the 2023 tutorial *"Spring Boot 3 + Spring Security 6 - JWT Authentic
 
 ## 📂 Project Structure
 ├── auth
+
 │ ├── AuthenticationController.java
+
 │ ├── AuthenticationService.java
+
 │ ├── AuthenticationRequest.java
+
 │ ├── AuthenticationResponse.java
+
 │ └── RegisterRequest.java
+
 ├── config
+
 │ ├── ApplicationConfig.java
+
 │ ├── JwtAuthenticationFilter.java
 │ ├── JwtService.java
 │ └── SecurityConfiguration.java
